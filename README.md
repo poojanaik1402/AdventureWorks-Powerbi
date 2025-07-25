@@ -107,3 +107,4 @@ Analyzes customer behavior and segmentation, including top customers by revenue,
 ---
 
 ### 📌 License
+This project is intended for **educational and portfolio use only**. Do not use for commercial purposes.
